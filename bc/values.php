@@ -1,0 +1,10 @@
+<?php
+const GENESIS_BLOCK = 'GENESIS_BLOCK';
+const STORAGE_CHAIN = 'STORAGE_CHAIN';
+const STORAGE_VALUE = 100;
+const GENESIS_REWARD = 100;
+const DIFFICULTY = 2;
+const RAND_BYTES = 32 ;
+const START_PERCENT = 10 ;
+const STORAGE_REWARD = 1 ;
+const TXS_LIMIT = 2;
